@@ -54,7 +54,7 @@ ___
     - tqdm==4.51.0
     - torch==1.8.0+cpu
     - dgl==0.6.0.post1
-    - network==2.5
+    - networkx==2.5
     - geonetworkx==0.5.2
     - geovoronoi==0.3.0
     - pydeck==0.5.0
